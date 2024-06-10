@@ -7,7 +7,7 @@ subtitle: Welcome to My Planet!
 My name is Qingning Shen, a sophomore computer science and engineering student in The Chinese University of Hong Kong, Shenzhen.
 
 - I'm interested in large language model and robotics
-- ###Core courses: Machine Learning, Database System, C++ Programming, Data Structure, Computational Laboratory, Calculus, Probability, Optimization, Linear Algebra and Applications, Mathematical Statistics, etc
+- Core courses: Machine Learning, Database System, C++ Programming, Data Structure, Computational Laboratory, Calculus, Probability, Optimization, Linear Algebra and Applications, Mathematical Statistics, etc
 - I'm Proficient in Word, Excel, PowerPoint, VS Code, Markdone and Latex
 - I'm Proficient in Python (including PyTorch, Numppy, Pandas, matplotlib, sklearn), C/C++ (including OpenCV), MySQL
 - I'm familiar with Java, Matkab, HTML, Linux (including Git, Docker), Raspberry Pi, Arduino, VHDL 
