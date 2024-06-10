@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Welcome to My Planet!!!
+subtitle: Welcome to My Planet!
 ---
 
 My name is Qingning Shen, a sophomore computer science and engineering student in the Chinese University of HongKong, Shenzhen.
