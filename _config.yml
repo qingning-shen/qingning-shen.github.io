@@ -21,7 +21,7 @@ author: Qingning Shen
 navbar-links:
   About Me: "aboutme"
   Project:
-    - Competition Project: "course_proj"
+    - Competition Project: "comp_proj"
     - Course Project: "course_proj"
   Research & Publication: "course_proj"
 
