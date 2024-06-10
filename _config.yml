@@ -50,7 +50,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "shenqingning2024@gmail.com"
- # facebook: 
+  #facebook: 
   github: qingning-shen
 #  medium: yourname
 #  reddit: yourname
@@ -71,7 +71,7 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-#  kaggle: yourname
+  kaggle: qingningfu
 #  hackerrank: yourname
 #  gitlab: yourname
 #  itchio: yourname
