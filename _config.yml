@@ -22,7 +22,7 @@ navbar-links:
   About Me: "aboutme"
   Project:
     - Competition Project: "https://beautifuljekyll.com"
-    - Course Project: "https://www.markdowntutorial.com/"
+    - Course Project: "course_proj"
   Research & Publication: "https://deanattali.com"
 
 ################
