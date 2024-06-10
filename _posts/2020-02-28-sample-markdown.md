@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample blog post
+title: Sample blog post to learn markdown tips
 subtitle: Waiting for updates!
-gh-repo: daattali/beautiful-jekyll
+gh-repo: Waiting-for-update.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
