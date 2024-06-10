@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Welcome to My Planet!!!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Qingning Shen, a sophomore computer science and engineering student in the Chinese University of HongKong, Shenzhen.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm interested in large language model
+- I'm interested in robotics
 
-What else do you need?
+Learn more?
 
 ### My story
 
