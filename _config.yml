@@ -50,11 +50,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "shenqingning2024@gmail.com"
-  facebook: Qingning Shen
-  github: "https://github.com/qingning-shen"
+ # facebook: 
+  github: "https://qingning-shen.github.io/"
 #  medium: yourname
 #  reddit: yourname
-  linkedin: Qingning Shen
+  linkedin: "https://www.linkedin.com/in/qingning-shen-b404782bb/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
