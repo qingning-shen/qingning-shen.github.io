@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
+title: Sample blog post
+subtitle: Waiting for updates!
+gh-repo: qingning-shen/Waiting-for-update.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Qingning Shen
 ---
 
 {: .box-success}
