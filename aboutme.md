@@ -11,6 +11,7 @@ My name is Qingning Shen, a sophomore computer science and engineering student i
 
 Learn more?
 
-### My story
+### My Experience
+May 2024: Join in the summer workshop in the School of Computing in the National University of Singapore
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+September 2022: Be a undergraduate student in the School of Data Science in the Chinese University of HongKong, Shenzhen
