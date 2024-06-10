@@ -23,7 +23,7 @@ navbar-links:
   Project:
     - Competition Project: "comp_proj"
     - Course Project: "course_proj"
-  Research & Publication: "course_proj"
+  Research & Publication: "Pub"
 
 ################
 # --- Logo --- #
