@@ -10,3 +10,6 @@ title: Course Project
 - ### Project for Software Engineering
 
   <https://github.com/qingning-shen/CSC4001--SE-Project>
+
+- ### Project for Database System
+  <https://github.com/qingning-shen/CSC3170--Arknights-Simulator>
